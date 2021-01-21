@@ -35,4 +35,4 @@ then do npm install the npm start
 4. connect to github
 5. click to deploy it
 6. And Boom! you got Wrapper Online on Heroku!
-# [Wrapper Online Alternated Video List](https://josephcrosmanplays532.github.io/GoAnimate=2012-Online/pages/html/list.html)
+# [Wrapper Online Alternated Video List](https://josephcrosmanplays532.github.io/GoAnimate-2012-Online/pages/html/list.html)
