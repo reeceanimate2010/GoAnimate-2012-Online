@@ -38,4 +38,4 @@ then do npm install the npm start
 
 # ![Wrapper Online](pages/img/logo.png)
 # ![Wrapper Online Video List](pages/img/list_logo.png)
-# ![Wrapper Online Alternated Video List](pages/img/alternatedlogo.png)
+# ![Wrapper Online Alternated Video List](https://josephcrosmanplays532.github.io/GoAnimate=2012-Online/pages/html/list.html)
